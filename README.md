@@ -1,7 +1,7 @@
 # Space Invaders Recreation
 
 This is a WIP recreation of Space Invaders in Unity. It was originally a project for the class "Introduction to Game Development,"
-but I have been reworking it since. Originally, it was a pair project, but I have removed my partner's name for the sake of her privacy.
+but I have been reworking it since. Originally, it was a pair project, but I have removed my partner's name for the sake of her privacy. <br/>
 <br/>
 Here are the aspects of the game I was responsible for or have reworked since the class:
 -EnemyManager script (movement, attacking, instantiation) (the new version of TayghEnemyManager only has movement working right now) <br/>
