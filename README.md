@@ -2,14 +2,14 @@
 
 This is a WIP recreation of Space Invaders in Unity. It was originally a project for the class "Introduction to Game Development,"
 but I have been reworking it since. Originally, it was a pair project, but I have removed my partner's name for the sake of her privacy.
-
+<br/>
 Here are the aspects of the game I was responsible for or have reworked since the class:
--EnemyManager script (movement, attacking, instantiation) (the new version of TayghEnemyManager only has movement working right now)
--Custom editor code
--Player script
--GameManager script
--Setting up the game scene
-
+-EnemyManager script (movement, attacking, instantiation) (the new version of TayghEnemyManager only has movement working right now) <br/>
+-Custom editor code <br/>
+-Player script <br/>
+-GameManager script <br/>
+-Setting up the game scene <br/>
+<br/>
 I had one goal when programming the TayghEnemyManager script: to build it in a way that is structurally scalable (just in case anyone ever
 wants to create new game modes that do not follow the original rules of the game) and usable by a game designer (referred to as a user 
 in code comments) without them having to ever look at the code. For example, designers define a total number of rows and the enemy prefabs
